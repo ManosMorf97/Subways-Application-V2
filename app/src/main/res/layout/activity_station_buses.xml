@@ -29,6 +29,8 @@
         android:layout_marginStart="40dp"
         android:layout_marginTop="116dp"
         android:background="@color/white"
+        android:fadeScrollbars="false"
+        android:scrollbarThumbVertical="@color/teal_700"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
