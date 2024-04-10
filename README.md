@@ -3,7 +3,7 @@
 This project is an extension of [Subway-Application](https://github.com/ManosMorf97/Subways-Application).
 
 
-
+#### Reminder 
 The aim of this project is to create a mobile app using Software Engineering fundamentals.
 
 The user can do four things:
