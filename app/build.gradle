@@ -6,9 +6,9 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "com.example.new_bus_application"
-        minSdkVersion 19
-        targetSdkVersion 30
+        applicationId "com.example.subway_application"
+        minSdkVersion 23
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0"
 

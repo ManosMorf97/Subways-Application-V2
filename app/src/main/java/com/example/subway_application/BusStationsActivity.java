@@ -40,7 +40,7 @@ public class BusStationsActivity extends KeyboardActivity {
             String bus_name_=bus_name.getText().toString();
             Toast toast;
             if(bus_name_.equals("")) {
-                toast = makeText("You forgot to add bus");
+                toast = makeText("You forgot to add subway");
                 toast.show();
                 return;
             }
